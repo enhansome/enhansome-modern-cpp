@@ -15,7 +15,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5389
+            "stars": 5390
           }
         },
         {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:02:23Z",
+                "last_commit": "2026-08-19T17:13:17Z",
                 "owner": "facebook",
                 "repo": "folly",
                 "stars": 30502
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 170525609,
                 "language": "C++",
-                "last_commit": "2026-08-17T19:22:29Z",
+                "last_commit": "2026-08-19T14:44:38Z",
                 "owner": "gammasoft71",
                 "repo": "xtd",
                 "stars": 1159
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-18T14:47:19Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38938
+                "stars": 38939
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-08-10T22:08:23Z",
                 "owner": "catchorg",
                 "repo": "Catch2",
-                "stars": 21426
+                "stars": 21427
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-18T21:43:01Z",
                 "owner": "doctest",
                 "repo": "doctest",
-                "stars": 6846
+                "stars": 6847
               }
             },
             {
@@ -292,7 +292,7 @@
                 "last_commit": "2026-08-18T07:19:23Z",
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10354
+                "stars": 10355
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29496
+                "stars": 29501
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2025-02-13T08:08:39Z",
                 "owner": "MengRao",
                 "repo": "fmtlog",
-                "stars": 1024
+                "stars": 1025
               }
             }
           ],
@@ -535,10 +535,10 @@
                 "archived": false,
                 "id": 11171548,
                 "language": "C++",
-                "last_commit": "2026-08-18T19:47:22Z",
+                "last_commit": "2026-08-19T15:42:41Z",
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50399
+                "stars": 50400
               }
             },
             {
@@ -550,10 +550,10 @@
                 "archived": false,
                 "id": 126412363,
                 "language": "C++",
-                "last_commit": "2026-08-18T17:49:22Z",
+                "last_commit": "2026-08-19T13:27:28Z",
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24162
+                "stars": 24161
               }
             },
             {
@@ -568,7 +568,7 @@
                 "last_commit": "2026-07-29T00:42:11Z",
                 "owner": "open-source-parsers",
                 "repo": "jsoncpp",
-                "stars": 8882
+                "stars": 8883
               }
             },
             {
@@ -670,10 +670,10 @@
                 "archived": false,
                 "id": 208118727,
                 "language": "C++",
-                "last_commit": "2026-08-17T15:23:06Z",
+                "last_commit": "2026-08-19T16:07:09Z",
                 "owner": "boostorg",
                 "repo": "json",
-                "stars": 477
+                "stars": 478
               }
             },
             {
@@ -755,7 +755,7 @@
                 "last_commit": "2020-02-20T20:55:47Z",
                 "owner": "p-ranav",
                 "repo": "pprint",
-                "stars": 936
+                "stars": 935
               }
             },
             {
@@ -844,7 +844,7 @@
                 "last_commit": "2026-08-11T09:55:27Z",
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14191
+                "stars": 14192
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2026-06-01T19:54:26Z",
                 "owner": "microsoft",
                 "repo": "cpprestsdk",
-                "stars": 8261
+                "stars": 8260
               }
             },
             {
@@ -904,7 +904,7 @@
                 "last_commit": "2026-08-12T11:35:26Z",
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4820
+                "stars": 4821
               }
             },
             {
@@ -1158,7 +1158,7 @@
                 "last_commit": "2025-05-14T23:50:57Z",
                 "owner": "p-ranav",
                 "repo": "tabulate",
-                "stars": 2174
+                "stars": 2172
               }
             },
             {
@@ -1535,7 +1535,7 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-19T01:36:05Z",
+                "last_commit": "2026-08-19T17:37:10Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
                 "stars": 27375
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-07-06T12:22:10Z",
                 "owner": "cpm-cmake",
                 "repo": "CPM.cmake",
-                "stars": 4097
+                "stars": 4098
               }
             },
             {
@@ -1611,7 +1611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:42:55.310Z",
+    "last_updated": "2026-08-19T18:00:24.410Z",
     "original_repository": "rigtorp/awesome-modern-cpp",
     "original_repository_id": 55082941,
     "original_repository_sha": "430f8e9af9745e9789003c4be5e0a8a6afaa75da",
