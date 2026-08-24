@@ -12,7 +12,7 @@ and leverage modern C++11 and beyond.
 ## Contributing
 
 To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,134 | 🐛 20 | 🌐 HTML | 📅 2024-08-20.
+[please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,133 | 🐛 20 | 🌐 HTML | 📅 2024-08-20.
 
 ## Books
 
@@ -20,7 +20,7 @@ To add, remove or change things on the list:
 * [The C++ Programming Language](https://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) \[C++11]
 * [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) \[C++11/14]
 * [Overview of the New C++](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) \[C++11/14]
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,264 | 🐛 246 | 🌐 CSS | 📅 2026-08-06 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,263 | 🐛 246 | 🌐 CSS | 📅 2026-08-06 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
 * [C++ Concurrency in Action](https://www.cplusplusconcurrencyinaction.com) (Anthony Williams) \[C++11/14/17] - Reference and guide to writing multi-threaded code with standard C++.
 * [C++17 - The Complete Guide](https://www.cppstd17.com/) (Nicolai M. Josuttis) \[C++17] - Giving guidance on how to use Language and Library Features of C++17.
 * [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott) - A practical guide for using CMake to build your C++ projects.
@@ -139,7 +139,7 @@ libraries with novel use of new C++ features.
 
 ### Kitchensink / Framework
 
-* [Folly](https://github.com/facebook/folly) ⭐ 30,508 | 🐛 462 | 🌐 C++ | 📅 2026-08-24 - Facebook Open-source Library.
+* [Folly](https://github.com/facebook/folly) ⭐ 30,507 | 🐛 462 | 🌐 C++ | 📅 2026-08-24 - Facebook Open-source Library.
 * [xtd](https://github.com/gammasoft71/xtd) ⭐ 1,160 | 🐛 98 | 🌐 C++ | 📅 2026-08-24 - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android.
 * [nonstd-lite](https://github.com/martinmoene/nonstd-lite) ⭐ 90 | 🐛 0 | 📅 2025-10-07 - Parent of \*-lite repositories, a migration path to post-C++11 features for pre-C++11 environments.
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
@@ -148,12 +148,12 @@ libraries with novel use of new C++ features.
 
 ### Testing
 
-* [Googletest](https://github.com/google/googletest) ⭐ 38,957 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 - Google Testing and Mocking Framework.
+* [Googletest](https://github.com/google/googletest) ⭐ 38,956 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 - Google Testing and Mocking Framework.
 * [Catch](https://github.com/catchorg/Catch2) ⭐ 21,437 | 🐛 438 | 🌐 C++ | 📅 2026-08-24 🔥 - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [doctest](https://github.com/onqtam/doctest) ⭐ 6,851 | 🐛 140 | 🌐 C++ | 📅 2026-08-18 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [Fakeit](https://github.com/eranpeer/FakeIt) ⭐ 1,370 | 🐛 74 | 🌐 C++ | 📅 2026-06-30 - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) ⭐ 1,103 | 🐛 119 | 🌐 C++ | 📅 2026-08-06 - QuickCheck clone for C++.
-* [Mull](https://github.com/mull-project/mull) ⭐ 831 | 🐛 23 | 🌐 C++ | 📅 2026-07-31 - Practical mutation testing tool for C and C++
+* [Mull](https://github.com/mull-project/mull) ⭐ 832 | 🐛 23 | 🌐 C++ | 📅 2026-07-31 - Practical mutation testing tool for C and C++
 * [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) ⭐ 339 | 🐛 29 | 🌐 C++ | 📅 2026-02-11 - Native ApprovalTests for C++ on Linux, Mac and Windows.
 * [snitch](https://github.com/cschreib/snitch) ⭐ 317 | 🐛 17 | 🌐 C++ | 📅 2026-02-02 - Lightweight C++20 testing framework.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) ⭐ 127 | 🐛 6 | 🌐 C++ | 📅 2024-06-18 - QuickCheck and SmallCheck clones for C++.
@@ -176,7 +176,7 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### Logging
 
-* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,520 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 - Fast C++ logging library.
+* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,520 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 - Fast C++ logging library.
 * [loguru](https://github.com/emilk/loguru) ⭐ 1,907 | 🐛 92 | 🌐 C++ | 📅 2026-07-31 - A lightweight and flexible C++ logging library
 * [fmtlog](https://github.com/MengRao/fmtlog) ⭐ 1,025 | 🐛 39 | 🌐 C++ | 📅 2025-02-13 - A fmtlib-style logging library with latency in nanoseconds.
 
@@ -193,8 +193,8 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### Parsing & Serialization
 
-* [json](https://github.com/nlohmann/json) ⭐ 50,453 | 🐛 101 | 🌐 C++ | 📅 2026-08-21 🥇 - JSON for Modern C++.
-* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,181 | 🐛 137 | 🌐 C++ | 📅 2026-08-23 - Accelerate the parsing of JSON per se using commonly available SIMD instructions
+* [json](https://github.com/nlohmann/json) ⭐ 50,454 | 🐛 101 | 🌐 C++ | 📅 2026-08-21 🥇 - JSON for Modern C++.
+* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,181 | 🐛 135 | 🌐 C++ | 📅 2026-08-24 - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,884 | 🐛 110 | 🌐 C++ | 📅 2026-08-20 - A C++ library for interacting with JSON.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) ⭐ 6,135 | 🐛 181 | 🌐 C++ | 📅 2026-08-24 - A YAML parser and emitter in C++.
 * [cereal](https://github.com/USCiLab/cereal) ⭐ 4,702 | 🐛 343 | 🌐 C++ | 📅 2026-03-11 - A C++11 library for serialization.
@@ -202,7 +202,7 @@ Libraries and frameworks for creating micro-benchmarks.
 * [toml++](https://github.com/marzer/tomlplusplus) ⭐ 2,131 | 🐛 28 | 🌐 C++ | 📅 2026-07-21 - A header-only C++17 library for parsing TOML v0.5.0 and later.
 * [cpptoml](https://github.com/skystrife/cpptoml) ⭐ 603 | 🐛 38 | 🌐 C++ | 📅 2023-10-07 - A header-only library for parsing TOML configuration files.
 * [daw\_json\_link](https://github.com/beached/daw_json_link) ⭐ 510 | 🐛 15 | 🌐 C++ | 📅 2026-08-23 - Fast, convenient JSON serialization and parsing in C++
-* [Boost.JSON](https://github.com/CPPAlliance/json) ⭐ 478 | 🐛 91 | 🌐 C++ | 📅 2026-08-24 - A JSON library with robust support for custom allocators.
+* [Boost.JSON](https://github.com/CPPAlliance/json) ⭐ 478 | 🐛 92 | 🌐 C++ | 📅 2026-08-24 - A JSON library with robust support for custom allocators.
 * [json\_struct](https://github.com/jorgen/json_struct) ⭐ 473 | 🐛 6 | 🌐 C++ | 📅 2026-07-04 - High performance, single header JSON parser, parsing directly to and from C++ structs.
 * [tinytoml](https://github.com/mayah/tinytoml) ⭐ 176 | 🐛 20 | 🌐 C++ | 📅 2024-06-20 -A header only C++11 library for parsing TOML.
 * [hjson-cpp](https://github.com/hjson/hjson-cpp) ⭐ 81 | 🐛 4 | 🌐 C++ | 📅 2025-04-20 - A C++11 library for reading and writing Hjson and/or JSON files.
@@ -217,17 +217,17 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### Scripting
 
-* [pybind11](https://github.com/pybind/pybind11) ⭐ 18,003 | 🐛 713 | 🌐 C++ | 📅 2026-08-23 - Seamless operability between C++11 and Python.
+* [pybind11](https://github.com/pybind/pybind11) ⭐ 18,004 | 🐛 713 | 🌐 C++ | 📅 2026-08-23 - Seamless operability between C++11 and Python.
 * [sol2](https://github.com/ThePhD/sol2) ⭐ 5,129 | 🐛 308 | 🌐 C++ | 📅 2025-03-07 - C++ library binding to Lua.
 * [ChaiScript](https://chaiscript.com/) - An easy to use embedded scripting language for C++.
 
 ### Web / HTTP
 
-* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,204 | 🐛 429 | 🌐 C++ | 📅 2026-08-24 - A C++14/17 based, high-performance HTTP application framework
-* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,642 | 🐛 347 | 🌐 C++ | 📅 2025-11-12 - High-performance Web framework (C++11, zero-dependency).
+* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,205 | 🐛 429 | 🌐 C++ | 📅 2026-08-24 - A C++14/17 based, high-performance HTTP application framework
+* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,642 | 🐛 348 | 🌐 C++ | 📅 2025-11-12 - High-performance Web framework (C++11, zero-dependency).
 * [cpprestsdk](https://github.com/Microsoft/cpprestsdk) ⚠️ Archived - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-* [cpr](https://github.com/whoshuu/cpr) ⭐ 7,413 | 🐛 87 | 🌐 C++ | 📅 2026-07-26 - C++ Requests: Curl for People, a spiritual port of Python Requests.
-* [Beast](https://github.com/boostorg/beast) ⭐ 4,819 | 🐛 106 | 🌐 C++ | 📅 2026-08-12 - HTTP and WebSocket built on Boost.Asio in C++11.
+* [cpr](https://github.com/whoshuu/cpr) ⭐ 7,414 | 🐛 87 | 🌐 C++ | 📅 2026-07-26 - C++ Requests: Curl for People, a spiritual port of Python Requests.
+* [Beast](https://github.com/boostorg/beast) ⭐ 4,819 | 🐛 107 | 🌐 C++ | 📅 2026-08-12 - HTTP and WebSocket built on Boost.Asio in C++11.
 * [restbed](https://github.com/Corvusoft/restbed) ⭐ 2,000 | 🐛 4 | 🌐 C++ | 📅 2026-06-23 - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
 * [Crow](https://crowcpp.org) - A Fast and Easy to use microframework for creating webservers (inspired by Python Flask).
 * [dmbcs-micro-server](https://rdmp.org/dmbcs/micro-server) - C++20-based JSON, HTML, text and PNGs over HTTP; simple way to embed a server into your application to provide a web-based UI.
@@ -238,7 +238,7 @@ Libraries and frameworks for creating micro-benchmarks.
 * [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,690 | 🐛 15 | 🌐 C++ | 📅 2026-08-15 - powerful header only SQLite3 ORM library for C++14.
 * [sqlpp11](https://github.com/rbock/sqlpp11) ⭐ 2,625 | 🐛 3 | 🌐 C++ | 📅 2026-04-24 - A type safe SQL template library for C++.
 * [libpqxx](https://github.com/jtv/libpqxx) ⭐ 1,349 | 🐛 7 | 🌐 C++ | 📅 2026-08-03 - The official C++ client API for PostgreSQL.
-* [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) ⭐ 1,105 | 🐛 3 | 🌐 C++ | 📅 2026-08-20 - C++ Driver for MongoDB.
+* [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) ⭐ 1,105 | 🐛 2 | 🌐 C++ | 📅 2026-08-20 - C++ Driver for MongoDB.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) ⭐ 642 | 🐛 4 | 🌐 C++ | 📅 2026-02-08 - C++ wrapper of SQLite3 API.
 * [redox](https://github.com/hmartiro/redox) ⭐ 386 | 🐛 34 | 🌐 C++ | 📅 2022-08-20 - Modern, asynchronous, and wicked fast C++11 client for Redis.
 * [TinyORM](https://github.com/silverqx/TinyORM) ⭐ 352 | 🐛 15 | 🌐 C++ | 📅 2025-04-02 - Modern C++ ORM library.
@@ -249,11 +249,11 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### Misc
 
-* [EnTT](https://github.com/skypjack/entt) ⭐ 13,045 | 🐛 11 | 🌐 C++ | 📅 2026-08-09 - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
+* [EnTT](https://github.com/skypjack/entt) ⭐ 13,045 | 🐛 11 | 🌐 C++ | 📅 2026-08-24 - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
 * [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 6,176 | 🐛 16 | 🌐 C++ | 📅 2026-08-11 - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
 * [cxxopts](https://github.com/jarro2783/cxxopts) ⭐ 4,800 | 🐛 70 | 🌐 C++ | 📅 2026-07-13 -  Lightweight C++ command line option parser.
 * [range-v3](https://github.com/ericniebler/range-v3) ⭐ 4,376 | 🐛 286 | 🌐 C++ | 📅 2026-04-12 - Experimental range library for C++11/14/17.
-* [date](https://github.com/HowardHinnant/date) ⭐ 3,430 | 🐛 179 | 🌐 C++ | 📅 2026-08-20 - A date and time library based on the C++11/14/17 <chrono> header.
+* [date](https://github.com/HowardHinnant/date) ⭐ 3,430 | 🐛 180 | 🌐 C++ | 📅 2026-08-20 - A date and time library based on the C++11/14/17 <chrono> header.
 * [indicators](https://github.com/p-ranav/indicators) ⭐ 3,410 | 🐛 49 | 🌐 C++ | 📅 2025-05-09 - Activity Indicators for Modern C++.
 * [Nameof](https://github.com/Neargye/nameof) ⭐ 2,357 | 🐛 0 | 🌐 C++ | 📅 2026-08-05 - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
 * [tabulate](https://github.com/p-ranav/tabulate) ⭐ 2,172 | 🐛 44 | 🌐 C++ | 📅 2025-05-14 - Table Maker for Modern C++.
@@ -319,7 +319,7 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### [Package management](https://en.wikipedia.org/wiki/Package_manager)
 
-* [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,390 | 🐛 1,194 | 🌐 CMake | 📅 2026-08-24 - C++ Library Manager for Windows, Linux, and MacOS
+* [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,391 | 🐛 1,185 | 🌐 CMake | 📅 2026-08-24 - C++ Library Manager for Windows, Linux, and MacOS
 * [CPM](https://github.com/TheLartians/CPM) ⭐ 4,102 | 🐛 165 | 🌐 CMake | 📅 2026-07-06 - A CMake script for setup-free cross-plattform dependency management.
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) ⭐ 946 | 🐛 61 | 🌐 F# | 📅 2022-12-08 - Fully Decentralized Polyglot Package Manager for C++ and Friends
 * [Hunter](https://github.com/cpp-pm/hunter) ⭐ 674 | 🐛 35 | 🌐 CMake | 📅 2026-08-23 - Cross-platform package manager for C++.

@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-24T12:02:10Z",
+                "last_commit": "2026-08-24T17:27:01Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30508
+                "stars": 30507
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38957
+                "stars": 38956
               }
             },
             {
@@ -147,7 +147,7 @@
                 "archived": false,
                 "id": 1062572,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:23:56Z",
+                "last_commit": "2026-08-24T15:26:36Z",
                 "owner": "catchorg",
                 "repo": "Catch2",
                 "stars": 21437
@@ -210,7 +210,7 @@
                 "last_commit": "2026-07-31T17:32:40Z",
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 831
+                "stars": 832
               }
             },
             {
@@ -538,7 +538,7 @@
                 "last_commit": "2026-08-21T15:43:56Z",
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50453
+                "stars": 50454
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 126412363,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:27:49Z",
+                "last_commit": "2026-08-24T18:03:33Z",
                 "owner": "simdjson",
                 "repo": "simdjson",
                 "stars": 24181
@@ -807,7 +807,7 @@
                 "last_commit": "2026-08-23T04:58:05Z",
                 "owner": "pybind",
                 "repo": "pybind11",
-                "stars": 18003
+                "stars": 18004
               }
             },
             {
@@ -844,7 +844,7 @@
                 "last_commit": "2026-08-24T07:27:10Z",
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14204
+                "stars": 14205
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2026-07-26T06:25:04Z",
                 "owner": "libcpr",
                 "repo": "cpr",
-                "stars": 7413
+                "stars": 7414
               }
             },
             {
@@ -1072,7 +1072,7 @@
                 "archived": false,
                 "id": 86337343,
                 "language": "C++",
-                "last_commit": "2026-08-09T15:23:08Z",
+                "last_commit": "2026-08-24T16:35:36Z",
                 "owner": "skypjack",
                 "repo": "entt",
                 "stars": 13045
@@ -1579,10 +1579,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-24T11:17:53Z",
+                "last_commit": "2026-08-24T17:41:37Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27390
+                "stars": 27391
               }
             },
             {
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:39.218Z",
+    "last_updated": "2026-08-24T18:13:39.975Z",
     "original_repository": "rigtorp/awesome-modern-cpp",
     "original_repository_id": 55082941,
     "original_repository_sha": "430f8e9af9745e9789003c4be5e0a8a6afaa75da",
