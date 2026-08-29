@@ -139,7 +139,7 @@ libraries with novel use of new C++ features.
 
 ### Kitchensink / Framework
 
-* [Folly](https://github.com/facebook/folly) ⭐ 30,514 | 🐛 465 | 🌐 C++ | 📅 2026-08-28 - Facebook Open-source Library.
+* [Folly](https://github.com/facebook/folly) ⭐ 30,515 | 🐛 465 | 🌐 C++ | 📅 2026-08-29 - Facebook Open-source Library.
 * [xtd](https://github.com/gammasoft71/xtd) ⭐ 1,160 | 🐛 98 | 🌐 C++ | 📅 2026-08-28 - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android.
 * [nonstd-lite](https://github.com/martinmoene/nonstd-lite) ⭐ 90 | 🐛 0 | 📅 2025-10-07 - Parent of \*-lite repositories, a migration path to post-C++11 features for pre-C++11 environments.
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
@@ -148,9 +148,9 @@ libraries with novel use of new C++ features.
 
 ### Testing
 
-* [Googletest](https://github.com/google/googletest) ⭐ 39,176 | 🐛 493 | 🌐 C++ | 📅 2026-08-27 - Google Testing and Mocking Framework.
+* [Googletest](https://github.com/google/googletest) ⭐ 39,194 | 🐛 493 | 🌐 C++ | 📅 2026-08-27 - Google Testing and Mocking Framework.
 * [Catch](https://github.com/catchorg/Catch2) ⭐ 21,447 | 🐛 439 | 🌐 C++ | 📅 2026-08-25 🔥 - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
-* [doctest](https://github.com/onqtam/doctest) ⭐ 6,854 | 🐛 141 | 🌐 C++ | 📅 2026-08-18 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
+* [doctest](https://github.com/onqtam/doctest) ⭐ 6,855 | 🐛 138 | 🌐 C++ | 📅 2026-08-29 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [Fakeit](https://github.com/eranpeer/FakeIt) ⭐ 1,370 | 🐛 74 | 🌐 C++ | 📅 2026-06-30 - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) ⭐ 1,103 | 🐛 119 | 🌐 C++ | 📅 2026-08-06 - QuickCheck clone for C++.
 * [Mull](https://github.com/mull-project/mull) ⭐ 833 | 🐛 23 | 🌐 C++ | 📅 2026-07-31 - Practical mutation testing tool for C and C++
@@ -193,7 +193,7 @@ Libraries and frameworks for creating micro-benchmarks.
 
 ### Parsing & Serialization
 
-* [json](https://github.com/nlohmann/json) ⭐ 50,476 | 🐛 140 | 🌐 C++ | 📅 2026-08-28 🥇 - JSON for Modern C++.
+* [json](https://github.com/nlohmann/json) ⭐ 50,478 | 🐛 140 | 🌐 C++ | 📅 2026-08-28 🥇 - JSON for Modern C++.
 * [simdjson](https://github.com/lemire/simdjson) ⭐ 24,208 | 🐛 134 | 🌐 C++ | 📅 2026-08-27 - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,884 | 🐛 110 | 🌐 C++ | 📅 2026-08-20 - A C++ library for interacting with JSON.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) ⭐ 6,139 | 🐛 181 | 🌐 C++ | 📅 2026-08-24 - A YAML parser and emitter in C++.
@@ -320,7 +320,7 @@ Libraries and frameworks for creating micro-benchmarks.
 ### [Package management](https://en.wikipedia.org/wiki/Package_manager)
 
 * [vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,404 | 🐛 1,216 | 🌐 CMake | 📅 2026-08-28 - C++ Library Manager for Windows, Linux, and MacOS
-* [CPM](https://github.com/TheLartians/CPM) ⭐ 4,106 | 🐛 167 | 🌐 CMake | 📅 2026-07-06 - A CMake script for setup-free cross-plattform dependency management.
+* [CPM](https://github.com/TheLartians/CPM) ⭐ 4,107 | 🐛 167 | 🌐 CMake | 📅 2026-07-06 - A CMake script for setup-free cross-plattform dependency management.
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) ⭐ 946 | 🐛 61 | 🌐 F# | 📅 2022-12-08 - Fully Decentralized Polyglot Package Manager for C++ and Friends
 * [Hunter](https://github.com/cpp-pm/hunter) ⭐ 674 | 🐛 35 | 🌐 CMake | 📅 2026-08-27 - Cross-platform package manager for C++.
 * [cget](https://github.com/pfultz2/cget) ⭐ 464 | 🐛 51 | 🌐 Python | 📅 2026-07-14 - CMake package retrieval.

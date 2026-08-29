@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.",
+            "homepage": "https://thelartians.github.io/ModernCppStarter",
             "id": 254842585,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2026-05-30T18:52:20Z",
+            "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5392
+            "stars": 5392,
+            "topics": [
+              "bootstrap",
+              "c",
+              "ccache",
+              "ci",
+              "clang-format",
+              "cmake",
+              "cmakelists",
+              "codecov",
+              "continuous-integration",
+              "coverage",
+              "cpp",
+              "dependency-manager",
+              "free",
+              "github-workflows",
+              "modern-cmake",
+              "modern-cmake-template",
+              "open-source",
+              "sanitizers",
+              "starter",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T01:11:02.042Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.",
+            "homepage": null,
             "id": 260901141,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2025-12-26T19:28:02Z",
+            "open_issues": 12,
             "owner": "filipdutescu",
             "repo": "modern-cpp-template",
-            "stars": 1918
+            "stars": 1918,
+            "topics": [
+              "ccache",
+              "ci",
+              "clang-format",
+              "cmake",
+              "cmake-module",
+              "cmake-template",
+              "cmakelists",
+              "code-coverage",
+              "codecov",
+              "continuous-integration",
+              "cpp",
+              "github-action",
+              "github-actions",
+              "google-test",
+              "gtest",
+              "open-source",
+              "package-manager",
+              "project-template",
+              "static-analysis",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T01:11:02.042Z"
         },
@@ -42,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake for C++ Best Practices",
+            "homepage": null,
             "id": 468570888,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2026-08-17T11:06:39Z",
+            "open_issues": 46,
             "owner": "cpp-best-practices",
             "repo": "cmake_template",
-            "stars": 1804
+            "stars": 1804,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:02.042Z"
         },
@@ -58,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pitchfork is a Set of C++ Project Conventions",
+            "homepage": null,
             "id": 145937248,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-26T09:25:43Z",
+            "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1258
+            "stars": 1258,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:02.042Z"
         }
@@ -82,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source C++ library developed and used at Facebook.",
+                "homepage": null,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-28T23:12:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:50:55Z",
+                "open_issues": 465,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30514
+                "stars": 30515,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -98,12 +165,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free open-source modern  C++20 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS.",
+                "homepage": "https://gammasoft71.github.io/xtd",
                 "id": 170525609,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:59:26Z",
+                "open_issues": 98,
                 "owner": "gammasoft71",
                 "repo": "xtd",
-                "stars": 1160
+                "stars": 1160,
+                "topics": [
+                  "c-plus-plus",
+                  "cli",
+                  "cmake",
+                  "console",
+                  "cplusplus-20",
+                  "cpp",
+                  "cross-platform",
+                  "cross-platform-desktop",
+                  "cross-platform-gui",
+                  "desktop",
+                  "framework",
+                  "gui",
+                  "gui-framework",
+                  "gui-toolkit",
+                  "portable",
+                  "raii",
+                  "test-framework",
+                  "toolkit",
+                  "unittest",
+                  "xtd"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -114,12 +207,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parent of *-lite repositories, a migration path to post-C++98 library features via polyfills.",
+                "homepage": null,
                 "id": 152857450,
                 "language": null,
+                "license": "BSL-1.0",
                 "last_commit": "2025-10-07T11:54:59Z",
+                "open_issues": 0,
                 "owner": "martinmoene",
                 "repo": "nonstd-lite",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "cpp20",
+                  "cpp98",
+                  "header-only",
+                  "no-dependencies",
+                  "single-file"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -137,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoogleTest - Google Testing and Mocking Framework",
+                "homepage": "https://google.github.io/googletest/",
                 "id": 39840932,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T11:15:21Z",
+                "open_issues": 493,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39176
+                "stars": 39194,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -153,12 +265,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+                "homepage": "https://discord.gg/4CWS9zD",
                 "id": 1062572,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-25T07:33:08Z",
+                "open_issues": 439,
                 "owner": "catchorg",
                 "repo": "Catch2",
-                "stars": 21447
+                "stars": 21447,
+                "topics": [
+                  "bdd",
+                  "cpp",
+                  "cpp14",
+                  "framework",
+                  "no-dependencies",
+                  "tdd",
+                  "test-framework",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -169,12 +295,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework",
+                "homepage": "https://bit.ly/doctest-docs",
                 "id": 22660515,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:43:01Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:44:06Z",
+                "open_issues": 138,
                 "owner": "doctest",
                 "repo": "doctest",
-                "stars": 6854
+                "stars": 6855,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "cpp20",
+                  "cpp23",
+                  "doctest",
+                  "header-only",
+                  "single-file",
+                  "tdd",
+                  "testing",
+                  "testing-framework",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -185,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.",
+                "homepage": null,
                 "id": 12526458,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:36:56Z",
+                "open_issues": 74,
                 "owner": "eranpeer",
                 "repo": "FakeIt",
-                "stars": 1370
+                "stars": 1370,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -201,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible.",
+                "homepage": null,
                 "id": 19587527,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-06T08:52:07Z",
+                "open_issues": 119,
                 "owner": "emil-e",
                 "repo": "rapidcheck",
-                "stars": 1103
+                "stars": 1103,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -217,12 +373,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical mutation testing and fault injection for C and C++",
+                "homepage": "https://mull-project.com",
                 "id": 58879166,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T17:32:40Z",
+                "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 833
+                "stars": 833,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "fault-injection",
+                  "jit",
+                  "llvm",
+                  "mutation-analysis",
+                  "mutation-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -233,12 +403,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native ApprovalTests for C++ on Linux, Mac and Windows",
+                "homepage": "https://approvaltestscpp.readthedocs.io/en/latest/",
                 "id": 9286563,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:20:32Z",
+                "open_issues": 29,
                 "owner": "approvals",
                 "repo": "ApprovalTests.cpp",
-                "stars": 339
+                "stars": 339,
+                "topics": [
+                  "approval-test",
+                  "approval-testing",
+                  "c-plus-plus",
+                  "cpp11",
+                  "golden-master",
+                  "header-only",
+                  "regression-testing",
+                  "single-file",
+                  "snapshot-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -249,12 +435,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight C++20 testing framework.",
+                "homepage": null,
                 "id": 549444671,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-02-02T08:17:09Z",
+                "open_issues": 17,
                 "owner": "snitch-org",
                 "repo": "snitch",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "constexpr",
+                  "cpp20",
+                  "lightweight",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -265,12 +461,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Header-only C++17 library for property-based testing.",
+                "homepage": null,
                 "id": 7383799,
                 "language": "C++",
+                "license": "ISC",
                 "last_commit": "2024-06-18T14:36:39Z",
+                "open_issues": 6,
                 "owner": "thejohnfreeman",
                 "repo": "autocheck",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "redirectory"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -281,12 +484,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern C++-20 testing framework.",
+                "homepage": "https://clean-test.dev",
                 "id": 313088453,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2024-05-26T22:10:28Z",
+                "open_issues": 2,
                 "owner": "clean-test",
                 "repo": "clean-test",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp20",
+                  "testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -304,12 +518,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A microbenchmark support library",
+                "homepage": null,
                 "id": 15122806,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:18:00Z",
+                "open_issues": 174,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10375
+                "stars": 10375,
+                "topics": [
+                  "benchmark"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -320,12 +541,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20",
+                "homepage": "https://nanobench.ankerl.com",
                 "id": 213074835,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-23T11:14:37Z",
+                "open_issues": 0,
                 "owner": "martinus",
                 "repo": "nanobench",
-                "stars": 1731
+                "stars": 1731,
+                "topics": [
+                  "benchmark",
+                  "cpp",
+                  "cpp11",
+                  "header-only",
+                  "microbenchmark",
+                  "single-file",
+                  "single-header",
+                  "single-header-lib"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -336,12 +571,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Benchmark Authoring Library/Framework",
+                "homepage": null,
                 "id": 7559760,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T13:56:45Z",
+                "open_issues": 4,
                 "owner": "DigitalInBlue",
                 "repo": "Celero",
-                "stars": 863
+                "stars": 863,
+                "topics": [
+                  "benchmark",
+                  "benchmark-tests",
+                  "c-plus-plus",
+                  "celero",
+                  "measurements",
+                  "microbenchmarks"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -352,12 +599,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ micro-benchmarking framework",
+                "homepage": "https://nonius.io",
                 "id": 15395437,
                 "language": "C++",
+                "license": "CC0-1.0",
                 "last_commit": "2020-02-25T23:22:55Z",
+                "open_issues": 58,
                 "owner": "libnonius",
                 "repo": "nonius",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "benchmarking",
+                  "c-plus-plus"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -368,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C++ benchmarking framework",
+                "homepage": "https://bruun.co/2012/02/07/easy-cpp-benchmarking",
                 "id": 3379786,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-08-23T18:13:52Z",
+                "open_issues": 9,
                 "owner": "nickbruun",
                 "repo": "hayai",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -391,12 +651,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast C++ logging library.",
+                "homepage": null,
                 "id": 26038648,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-08T10:51:08Z",
+                "open_issues": 50,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29540
+                "stars": 29540,
+                "topics": [
+                  "cpp",
+                  "cpp11",
+                  "header-only",
+                  "logging",
+                  "spdlog"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -407,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight C++ logging library",
+                "homepage": null,
                 "id": 32687193,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2026-07-31T12:11:42Z",
+                "open_issues": 92,
                 "owner": "emilk",
                 "repo": "loguru",
-                "stars": 1908
+                "stars": 1908,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -423,12 +699,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.",
+                "homepage": null,
                 "id": 363392971,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-02-13T08:08:39Z",
+                "open_issues": 40,
                 "owner": "MengRao",
                 "repo": "fmtlog",
-                "stars": 1025
+                "stars": 1025,
+                "topics": [
+                  "fmtlib",
+                  "high-performance",
+                  "logging",
+                  "logging-library",
+                  "low-latency"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -446,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+                "homepage": null,
                 "id": 26255337,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-11T17:15:50Z",
+                "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12471
+                "stars": 12471,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -462,12 +754,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A General-purpose Task-parallel Programming System in C++",
+                "homepage": "https://taskflow.github.io",
                 "id": 130068982,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T17:29:28Z",
+                "open_issues": 34,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12133
+                "stars": 12133,
+                "topics": [
+                  "concurrent-programming",
+                  "cuda-programming",
+                  "gpu-programming",
+                  "heterogeneous-parallel-programming",
+                  "high-performance-computing",
+                  "multi-threading",
+                  "multicore-programming",
+                  "multithreading",
+                  "parallel",
+                  "parallel-computing",
+                  "parallel-programming",
+                  "taskflow",
+                  "taskparallelism",
+                  "threadpool",
+                  "work-stealing"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -478,12 +791,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all",
+                "homepage": null,
                 "id": 232289062,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-01T08:01:39Z",
+                "open_issues": 13,
                 "owner": "David-Haim",
                 "repo": "concurrencpp",
-                "stars": 2761
+                "stars": 2761,
+                "topics": [
+                  "async-await",
+                  "asynchronous-programming",
+                  "await",
+                  "concurrency",
+                  "concurrent-programming",
+                  "coroutine",
+                  "coroutines",
+                  "cpp",
+                  "cpp20",
+                  "executor-service",
+                  "executors",
+                  "multithreading",
+                  "scheduler",
+                  "task-scheduler",
+                  "tasks",
+                  "thread-safety",
+                  "threading",
+                  "threadpool",
+                  "timers"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -494,12 +832,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bounded multi-producer multi-consumer concurrent queue written in C++11",
+                "homepage": null,
                 "id": 54938037,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-03-08T11:12:31Z",
+                "open_issues": 13,
                 "owner": "rigtorp",
                 "repo": "MPMCQueue",
-                "stars": 1563
+                "stars": 1563,
+                "topics": [
+                  "concurrency",
+                  "cpp",
+                  "cpp11",
+                  "header-only",
+                  "queue"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -510,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Concurrent data structures in C++",
+                "homepage": null,
                 "id": 50839636,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-16T17:22:06Z",
+                "open_issues": 17,
                 "owner": "preshing",
                 "repo": "junction",
-                "stars": 1459
+                "stars": 1459,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -526,12 +880,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bounded single-producer single-consumer wait-free and lock-free queue written in C++11",
+                "homepage": null,
                 "id": 54936219,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-01-04T14:24:22Z",
+                "open_issues": 11,
                 "owner": "rigtorp",
                 "repo": "SPSCQueue",
-                "stars": 1281
+                "stars": 1281,
+                "topics": [
+                  "concurrency",
+                  "concurrent-data-structure",
+                  "cpp",
+                  "cpp11",
+                  "header-only",
+                  "lock-free",
+                  "queue",
+                  "spsc-queue"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -542,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart queue that executes tasks in threadpool-like manner",
+                "homepage": null,
                 "id": 162987156,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-27T05:49:10Z",
+                "open_issues": 2,
                 "owner": "Alkenso",
                 "repo": "execq",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -565,12 +938,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON for Modern C++",
+                "homepage": "https://json.nlohmann.me",
                 "id": 11171548,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:49:22Z",
+                "open_issues": 140,
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50476
+                "stars": 50478,
+                "topics": [
+                  "bson",
+                  "cbor",
+                  "header-only",
+                  "json",
+                  "json-diff",
+                  "json-merge-patch",
+                  "json-parser",
+                  "json-patch",
+                  "json-pointer",
+                  "json-serialization",
+                  "messagepack",
+                  "msgpack",
+                  "rfc-6901",
+                  "rfc-6902",
+                  "rfc-7049",
+                  "rfc-7159",
+                  "rfc-8259",
+                  "stl-containers",
+                  "ubjson"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -581,12 +979,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+                "homepage": "https://simdjson.org",
                 "id": 126412363,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:15:20Z",
+                "open_issues": 134,
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24208
+                "stars": 24208,
+                "topics": [
+                  "aarch64",
+                  "arm64",
+                  "avx2",
+                  "avx512",
+                  "c-plus-plus",
+                  "clang",
+                  "clang-cl",
+                  "cpp11",
+                  "gcc-compiler",
+                  "json",
+                  "json-parser",
+                  "json-pointer",
+                  "loongarch",
+                  "loongarch64",
+                  "neon",
+                  "risc-v",
+                  "simd",
+                  "sse42",
+                  "vs2019",
+                  "x64"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -597,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ library for interacting with JSON.",
+                "homepage": null,
                 "id": 21530861,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T22:45:07Z",
+                "open_issues": 110,
                 "owner": "open-source-parsers",
                 "repo": "jsoncpp",
-                "stars": 8884
+                "stars": 8884,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -613,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A YAML parser and emitter in C++",
+                "homepage": null,
                 "id": 33100064,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-24T05:32:57Z",
+                "open_issues": 181,
                 "owner": "jbeder",
                 "repo": "yaml-cpp",
-                "stars": 6139
+                "stars": 6139,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -629,12 +1063,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++11 library for serialization",
+                "homepage": null,
                 "id": 10952997,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-11T06:41:29Z",
+                "open_issues": 344,
                 "owner": "USCiLab",
                 "repo": "cereal",
-                "stars": 4704
+                "stars": 4704,
+                "topics": [
+                  "c-plus-plus",
+                  "cereal",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -645,12 +1088,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.",
+                "homepage": "https://cista.rocks",
                 "id": 159045490,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-15T11:13:27Z",
+                "open_issues": 12,
                 "owner": "felixguendling",
                 "repo": "cista",
-                "stars": 2246
+                "stars": 2246,
+                "topics": [
+                  "benchmark",
+                  "cpp",
+                  "cpp17",
+                  "deserialization",
+                  "efficient",
+                  "high-performance",
+                  "reflection",
+                  "serialization",
+                  "zero-copy"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -661,12 +1119,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Header-only TOML config file parser and serializer for C++17.",
+                "homepage": "https://marzer.github.io/tomlplusplus/",
                 "id": 224503712,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-21T09:41:59Z",
+                "open_issues": 28,
                 "owner": "marzer",
                 "repo": "tomlplusplus",
-                "stars": 2134
+                "stars": 2134,
+                "topics": [
+                  "c-plus-plus-17",
+                  "c-plus-plus-20",
+                  "configuration-files",
+                  "cplusplus-17",
+                  "cplusplus-20",
+                  "cpp",
+                  "cpp17",
+                  "cpp20",
+                  "header-only",
+                  "json",
+                  "no-dependencies",
+                  "parser",
+                  "serializer",
+                  "single-file",
+                  "toml",
+                  "toml-parser",
+                  "toml-parsing",
+                  "tomlplusplus",
+                  "unicode",
+                  "utf-8"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -677,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cpptoml is a header-only library for parsing TOML",
+                "homepage": null,
                 "id": 10170833,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-07T16:28:09Z",
+                "open_issues": 38,
                 "owner": "skystrife",
                 "repo": "cpptoml",
-                "stars": 603
+                "stars": 603,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -693,12 +1182,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, convenient JSON serialization and parsing in C++",
+                "homepage": "https://beached.github.io/daw_json_link/",
                 "id": 96071099,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-28T23:30:41Z",
+                "open_issues": 15,
                 "owner": "beached",
                 "repo": "daw_json_link",
-                "stars": 510
+                "stars": 510,
+                "topics": [
+                  "constexpr",
+                  "cpp",
+                  "cpp17",
+                  "cpp20",
+                  "daw-json-link",
+                  "json",
+                  "json-parser",
+                  "parse",
+                  "parser",
+                  "serialization",
+                  "serializer"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -709,12 +1215,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++11 library for parsing and serializing JSON to and from a DOM container in memory.",
+                "homepage": "https://boost.org/libs/json",
                 "id": 208118727,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-24T11:50:36Z",
+                "open_issues": 93,
                 "owner": "boostorg",
                 "repo": "json",
-                "stars": 478
+                "stars": 478,
+                "topics": [
+                  "boost",
+                  "cplusplus",
+                  "cplusplus-11",
+                  "fast",
+                  "header-only",
+                  "json",
+                  "json-libraries",
+                  "parse"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -725,12 +1245,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa",
+                "homepage": null,
                 "id": 7530309,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T21:43:22Z",
+                "open_issues": 6,
                 "owner": "jorgen",
                 "repo": "json_struct",
-                "stars": 474
+                "stars": 474,
+                "topics": [
+                  "c-plus-plus",
+                  "deserialization",
+                  "json",
+                  "parse",
+                  "serialization",
+                  "template-metaprogramming",
+                  "template-specialisations"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -741,12 +1274,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A header only C++11 library for parsing TOML",
+                "homepage": null,
                 "id": 26595351,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-06-20T16:20:06Z",
+                "open_issues": 20,
                 "owner": "mayah",
                 "repo": "tinytoml",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "c-plus-plus",
+                  "toml"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -757,12 +1298,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hjson for C++",
+                "homepage": "https://hjson.github.io/",
                 "id": 100888094,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-04-20T15:29:56Z",
+                "open_issues": 4,
                 "owner": "hjson",
                 "repo": "hjson-cpp",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "cpp",
+                  "hjson"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -780,12 +1329,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Template Engine for Modern C++",
+                "homepage": "https://pantor.github.io/inja/",
                 "id": 100109300,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-18T06:26:06Z",
+                "open_issues": 55,
                 "owner": "pantor",
                 "repo": "inja",
-                "stars": 1964
+                "stars": 1964,
+                "topics": [
+                  "header-only",
+                  "inja",
+                  "jinja",
+                  "json",
+                  "string-template",
+                  "template",
+                  "template-engine"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -796,12 +1358,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pretty Printer for Modern C++",
+                "homepage": null,
                 "id": 183324785,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-02-20T20:55:47Z",
+                "open_issues": 1,
                 "owner": "p-ranav",
                 "repo": "pprint",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "cpp17",
+                  "mit-license",
+                  "pretty-printer",
+                  "single-header-lib"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -812,12 +1384,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal, type safe printf replacement library for C++",
+                "homepage": null,
                 "id": 2111398,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-01-31T01:04:58Z",
+                "open_issues": 20,
                 "owner": "c42f",
                 "repo": "tinyformat",
-                "stars": 562
+                "stars": 562,
+                "topics": [
+                  "cplusplus",
+                  "minimalistic",
+                  "printf"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -828,12 +1409,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mustache text templates for modern C++",
+                "homepage": null,
                 "id": 33787085,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2025-06-15T04:02:28Z",
+                "open_issues": 3,
                 "owner": "kainjow",
                 "repo": "Mustache",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "c-plus-plus",
+                  "mustache"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -851,12 +1440,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless operability between C++11 and Python",
+                "homepage": "https://pybind11.readthedocs.io/",
                 "id": 38581626,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:48:12Z",
+                "open_issues": 715,
                 "owner": "pybind",
                 "repo": "pybind11",
-                "stars": 18008
+                "stars": 18008,
+                "topics": [
+                  "bindings",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -867,12 +1464,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:",
+                "homepage": "http://sol2.rtfd.io/",
                 "id": 49177547,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-03-07T21:01:58Z",
+                "open_issues": 308,
                 "owner": "ThePhD",
                 "repo": "sol2",
-                "stars": 5130
+                "stars": 5130,
+                "topics": [
+                  "android",
+                  "clang",
+                  "cpp17",
+                  "gcc",
+                  "ios",
+                  "lua",
+                  "lua-binding",
+                  "lua-bindings",
+                  "lua-scripting",
+                  "luajit",
+                  "modern-cpp",
+                  "ndk",
+                  "simple",
+                  "sol",
+                  "visual-cpp",
+                  "visual-studio"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -890,12 +1509,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+                "homepage": null,
                 "id": 131236938,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:19:52Z",
+                "open_issues": 420,
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14220
+                "stars": 14220,
+                "topics": [
+                  "asynchronous-programming",
+                  "drogon",
+                  "http",
+                  "http-framework",
+                  "http-server",
+                  "linux",
+                  "non-blocking-io"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -906,12 +1538,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.",
+                "homepage": "https://oatpp.io/",
                 "id": 124976393,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-12T06:19:27Z",
+                "open_issues": 348,
                 "owner": "oatpp",
                 "repo": "oatpp",
-                "stars": 8647
+                "stars": 8647,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cross-platform",
+                  "iot",
+                  "microservices",
+                  "oatpp",
+                  "webframework",
+                  "webserver",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -922,12 +1569,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.",
+                "homepage": null,
                 "id": 23202799,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T19:54:26Z",
+                "open_issues": 861,
                 "owner": "microsoft",
                 "repo": "cpprestsdk",
-                "stars": 8259
+                "stars": 8259,
+                "topics": [
+                  "async",
+                  "asynchronous-tasks",
+                  "cloud",
+                  "cpp",
+                  "cpp-library",
+                  "cpp11",
+                  "http",
+                  "oauth",
+                  "oauth2",
+                  "sdk",
+                  "tasks",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -938,12 +1603,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Requests: Curl for People, a spiritual port of Python Requests.",
+                "homepage": "https://docs.libcpr.dev/",
                 "id": 33157169,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:36:41Z",
+                "open_issues": 86,
                 "owner": "libcpr",
                 "repo": "cpr",
-                "stars": 7420
+                "stars": 7420,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "hacktoberfest",
+                  "http",
+                  "libcurl",
+                  "library",
+                  "requests"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -954,12 +1632,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP and WebSocket built on Boost.Asio in C++11",
+                "homepage": "http://www.boost.org/libs/beast",
                 "id": 10726510,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-25T04:31:01Z",
+                "open_issues": 106,
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4821
+                "stars": 4821,
+                "topics": [
+                  "asio",
+                  "async-programming",
+                  "boost",
+                  "boost-libraries",
+                  "c-plus-plus-11",
+                  "cplusplus",
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "linux",
+                  "networking",
+                  "osx",
+                  "server",
+                  "ssl",
+                  "tls",
+                  "websocket",
+                  "websocket-client",
+                  "websocket-server",
+                  "websockets",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -970,12 +1674,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++ applications.",
+                "homepage": "http://www.corvusoft.co.uk",
                 "id": 37728539,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T09:30:10Z",
+                "open_issues": 4,
                 "owner": "Corvusoft",
                 "repo": "restbed",
-                "stars": 2000
+                "stars": 2000,
+                "topics": [
+                  "async-programming",
+                  "asynchronous",
+                  "comet",
+                  "cpp",
+                  "http",
+                  "http-server",
+                  "http2",
+                  "push",
+                  "restful",
+                  "restful-api",
+                  "restful-webservices",
+                  "server-sent-events",
+                  "ssl-support",
+                  "tls-support",
+                  "websocket",
+                  "websocket-api",
+                  "websocket-library"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -993,12 +1720,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❤️ SQLite ORM light header only library for modern C++",
+                "homepage": null,
                 "id": 76951323,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:23:32Z",
+                "open_issues": 16,
                 "owner": "fnc12",
                 "repo": "sqlite_orm",
-                "stars": 2692
+                "stars": 2692,
+                "topics": [
+                  "cplusplus",
+                  "cplusplus-14",
+                  "cpp",
+                  "crud",
+                  "modern-cpp",
+                  "orm",
+                  "sql",
+                  "sqlite",
+                  "sqlite-orm",
+                  "sqlite3",
+                  "sqlite3-database",
+                  "sqliteorm"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1009,12 +1754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A type safe SQL template library for C++",
+                "homepage": null,
                 "id": 12091112,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-24T08:09:32Z",
+                "open_issues": 3,
                 "owner": "rbock",
                 "repo": "sqlpp11",
-                "stars": 2624
+                "stars": 2624,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1025,12 +1775,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official C++ client API for PostgreSQL.",
+                "homepage": "http://pqxx.org/libpqxx/",
                 "id": 68938580,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-03T09:32:49Z",
+                "open_issues": 7,
                 "owner": "jtv",
                 "repo": "libpqxx",
-                "stars": 1349
+                "stars": 1349,
+                "topics": [
+                  "cplusplus",
+                  "cplusplus-17",
+                  "cplusplus-20",
+                  "cplusplus-23",
+                  "databases",
+                  "postgres",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1041,12 +1804,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Driver for MongoDB",
+                "homepage": "https://www.mongodb.com/docs/drivers/cxx/",
                 "id": 15881868,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:02:04Z",
+                "open_issues": 1,
                 "owner": "mongodb",
                 "repo": "mongo-cxx-driver",
-                "stars": 1106
+                "stars": 1106,
+                "topics": [
+                  "bson",
+                  "bson-library",
+                  "c-plus-plus",
+                  "c-plus-plus-11",
+                  "c-plus-plus-14",
+                  "c-plus-plus-17",
+                  "cpp",
+                  "cxx",
+                  "database",
+                  "database-driver",
+                  "driver",
+                  "mongo",
+                  "mongo-cdriver",
+                  "mongodb",
+                  "mongodb-driver",
+                  "networking",
+                  "nosql"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1057,12 +1843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQLite3++ - C++ wrapper of SQLite3 API",
+                "homepage": null,
                 "id": 23259456,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-08T19:41:41Z",
+                "open_issues": 4,
                 "owner": "iwongu",
                 "repo": "sqlite3pp",
-                "stars": 642
+                "stars": 642,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1073,12 +1864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern, asynchronous, and wicked fast C++11 client for Redis",
+                "homepage": null,
                 "id": 28383189,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-20T14:13:55Z",
+                "open_issues": 34,
                 "owner": "hmartiro",
                 "repo": "redox",
-                "stars": 386
+                "stars": 386,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1089,12 +1885,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern C++ ORM library",
+                "homepage": "https://www.tinyorm.org",
                 "id": 329704862,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-04-02T13:50:31Z",
+                "open_issues": 15,
                 "owner": "silverqx",
                 "repo": "TinyORM",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "cplusplus20",
+                  "database",
+                  "migrations",
+                  "mysql",
+                  "orm",
+                  "postgresql",
+                  "query-builder",
+                  "seeder",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1112,12 +1923,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The modern C++ library for sequence analysis. Contains version 3 of the library and API docs.",
+                "homepage": "https://www.seqan.de",
                 "id": 55410078,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:59:56Z",
+                "open_issues": 33,
                 "owner": "seqan",
                 "repo": "seqan3",
-                "stars": 461
+                "stars": 461,
+                "topics": [
+                  "bioinformatics",
+                  "blast",
+                  "cpp-concepts",
+                  "cpp20",
+                  "fasta",
+                  "fastq",
+                  "fm-index",
+                  "modern",
+                  "samtools",
+                  "seqan",
+                  "sequence-alignment",
+                  "sequence-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1135,12 +1964,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+                "homepage": "https://github.com/skypjack/entt/wiki",
                 "id": 86337343,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:32:16Z",
+                "open_issues": 11,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13057
+                "stars": 13057,
+                "topics": [
+                  "architectural-patterns",
+                  "cpp",
+                  "cpp17",
+                  "cpp20",
+                  "data-oriented",
+                  "data-oriented-design",
+                  "ecs",
+                  "ecs-framework",
+                  "entity-component-system",
+                  "entt",
+                  "game-dev",
+                  "game-development",
+                  "game-engine",
+                  "game-programming",
+                  "gamedev",
+                  "header-only",
+                  "modern-cpp",
+                  "no-dependencies",
+                  "production-ready",
+                  "reflection"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1151,12 +2006,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+                "homepage": null,
                 "id": 178613040,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-11T16:02:34Z",
+                "open_issues": 16,
                 "owner": "Neargye",
                 "repo": "magic_enum",
-                "stars": 6175
+                "stars": 6175,
+                "topics": [
+                  "c-plus-plus",
+                  "c-plus-plus-17",
+                  "cplusplus",
+                  "cplusplus-17",
+                  "cpp",
+                  "cpp17",
+                  "enum",
+                  "enum-to-string",
+                  "header-only",
+                  "metaprogramming",
+                  "no-dependencies",
+                  "reflection",
+                  "serialization",
+                  "single-file",
+                  "string-to-enum"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1167,12 +2043,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight C++ command line option parser",
+                "homepage": null,
                 "id": 24747723,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-13T20:09:41Z",
+                "open_issues": 70,
                 "owner": "jarro2783",
                 "repo": "cxxopts",
-                "stars": 4801
+                "stars": 4801,
+                "topics": [
+                  "c-plus-plus",
+                  "option-parser",
+                  "positional-arguments"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1183,12 +2068,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Range library for C++14/17/20, basis for C++20's std::ranges",
+                "homepage": null,
                 "id": 14305727,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T21:47:31Z",
+                "open_issues": 286,
                 "owner": "ericniebler",
                 "repo": "range-v3",
-                "stars": 4377
+                "stars": 4377,
+                "topics": [
+                  "c-plus-plus",
+                  "iterator",
+                  "proposal",
+                  "range",
+                  "range-library"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1199,12 +2095,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A date and time library based on the C++11/14/17 <chrono> header",
+                "homepage": null,
                 "id": 39283837,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:27:59Z",
+                "open_issues": 179,
                 "owner": "HowardHinnant",
                 "repo": "date",
-                "stars": 3430
+                "stars": 3430,
+                "topics": [
+                  "calendar",
+                  "date",
+                  "datetime",
+                  "iana-database",
+                  "time",
+                  "timezone",
+                  "timezone-library"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1215,12 +2124,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Activity Indicators for Modern C++",
+                "homepage": null,
                 "id": 225650140,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-09T19:37:45Z",
+                "open_issues": 49,
                 "owner": "p-ranav",
                 "repo": "indicators",
-                "stars": 3410
+                "stars": 3410,
+                "topics": [
+                  "activity-indicator",
+                  "cpp",
+                  "cpp11",
+                  "elapsed-time",
+                  "format",
+                  "formatted-text",
+                  "header-only",
+                  "library",
+                  "lightweight",
+                  "loading-animations",
+                  "loading-indicator",
+                  "mit-license",
+                  "multiprogress",
+                  "progress-bar",
+                  "progress-spinner",
+                  "single-header",
+                  "single-header-lib",
+                  "spinners",
+                  "termcolor",
+                  "terminal-colors"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1231,12 +2166,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum",
+                "homepage": null,
                 "id": 125595170,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:21:22Z",
+                "open_issues": 0,
                 "owner": "Neargye",
                 "repo": "nameof",
-                "stars": 2357
+                "stars": 2357,
+                "topics": [
+                  "c-plus-plus",
+                  "c-plus-plus-17",
+                  "cplusplus",
+                  "cplusplus-17",
+                  "cpp",
+                  "cpp17",
+                  "enum-to-string",
+                  "header-only",
+                  "metaprogramming",
+                  "nameof",
+                  "nameof-operator",
+                  "no-dependencies",
+                  "reflection",
+                  "serialization",
+                  "single-file"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1247,12 +2203,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Table Maker for Modern C++",
+                "homepage": null,
                 "id": 229167004,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-14T23:50:57Z",
+                "open_issues": 44,
                 "owner": "p-ranav",
                 "repo": "tabulate",
-                "stars": 2175
+                "stars": 2175,
+                "topics": [
+                  "aligned",
+                  "alignment",
+                  "borders",
+                  "cli",
+                  "column-alignment",
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "font-styles",
+                  "formatted-text",
+                  "library",
+                  "mit-license",
+                  "multi-byte-characters",
+                  "single-header",
+                  "single-header-lib",
+                  "table",
+                  "table-maker",
+                  "terminal",
+                  "view"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1263,12 +2244,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing Expression Grammar Template Library",
+                "homepage": null,
                 "id": 28405090,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-17T20:22:03Z",
+                "open_issues": 5,
                 "owner": "taocpp",
                 "repo": "PEGTL",
-                "stars": 2155
+                "stars": 2155,
+                "topics": [
+                  "cpp",
+                  "cpp11",
+                  "cpp17",
+                  "grammar",
+                  "header-only",
+                  "parser-combinators",
+                  "parsing",
+                  "parsing-expression-grammar",
+                  "parsing-expression-grammars",
+                  "peg",
+                  "pegtl"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1279,12 +2277,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minimal, Header only Modern c++ library for terminal goodies 💄✨",
+                "homepage": "https://agauniyal.github.io/rang/",
                 "id": 52766460,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2026-05-16T15:36:28Z",
+                "open_issues": 26,
                 "owner": "agauniyal",
                 "repo": "rang",
-                "stars": 1593
+                "stars": 1593,
+                "topics": [
+                  "ansi",
+                  "cli",
+                  "color",
+                  "command-line",
+                  "console",
+                  "cplusplus",
+                  "cpp",
+                  "cpp-library",
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "rang",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1295,12 +2312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of python itertools and builtin iteration functions for C++17",
+                "homepage": "https://twitter.com/cppitertools",
                 "id": 12811614,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-12-07T05:47:01Z",
+                "open_issues": 16,
                 "owner": "ryanhaining",
                 "repo": "cppitertools",
-                "stars": 1430
+                "stars": 1430,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1311,12 +2333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++11 port of docopt",
+                "homepage": null,
                 "id": 14197245,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2025-10-03T01:54:11Z",
+                "open_issues": 68,
                 "owner": "docopt",
                 "repo": "docopt.cpp",
-                "stars": 1089
+                "stars": 1089,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1327,12 +2354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vireo is a lightweight and versatile video processing library written in C++11",
+                "homepage": null,
                 "id": 56289751,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-10-21T17:26:15Z",
+                "open_issues": 15,
                 "owner": "twitter",
                 "repo": "vireo",
-                "stars": 955
+                "stars": 955,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1343,12 +2375,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Random for modern C++ with convenient API",
+                "homepage": null,
                 "id": 91072215,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-16T08:35:09Z",
+                "open_issues": 0,
                 "owner": "ilqvya",
                 "repo": "random",
-                "stars": 947
+                "stars": 947,
+                "topics": [
+                  "cpp11",
+                  "header-only",
+                  "random"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1359,12 +2400,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern C++ tweening library",
+                "homepage": "http://mobius3.github.io/tweeny",
                 "id": 63515356,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:07:44Z",
+                "open_issues": 17,
                 "owner": "mobius3",
                 "repo": "tweeny",
-                "stars": 846
+                "stars": 846,
+                "topics": [
+                  "animation",
+                  "cmake",
+                  "interpolation",
+                  "tween"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1375,12 +2426,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meta programming utilities for C++14. Merged in matt-42/lithium",
+                "homepage": null,
                 "id": 19530433,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-12-07T13:32:46Z",
+                "open_issues": 7,
                 "owner": "matt-42",
                 "repo": "iod",
-                "stars": 727
+                "stars": 727,
+                "topics": [
+                  "c-plus-plus",
+                  "deserialization",
+                  "meta-programming",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1391,12 +2452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reflective enum implementation for C++",
+                "homepage": null,
                 "id": 98955314,
                 "language": "C",
+                "license": "BSL-1.0",
                 "last_commit": "2024-02-08T22:03:17Z",
+                "open_issues": 13,
                 "owner": "quicknir",
                 "repo": "wise_enum",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1407,12 +2473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple header only pattern matching for c++14",
+                "homepage": null,
                 "id": 32630883,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2021-06-15T15:30:59Z",
+                "open_issues": 1,
                 "owner": "jbandela",
                 "repo": "simple_match",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1423,12 +2494,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High Performance Streams Based on Coroutine TS ⚡",
+                "homepage": null,
                 "id": 155072430,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-02-14T12:55:53Z",
+                "open_issues": 12,
                 "owner": "LoopPerfect",
                 "repo": "conduit",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "algorithms",
+                  "c-plus-plus",
+                  "c-plus-plus-17",
+                  "coroutines",
+                  "data-types",
+                  "functional-programming",
+                  "performance",
+                  "sequences"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1439,12 +2524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ header-only library for creating, displaying, iterating and manipulating dates",
+                "homepage": null,
                 "id": 116506170,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-04-21T14:16:43Z",
+                "open_issues": 1,
                 "owner": "mobius3",
                 "repo": "asap",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1455,12 +2545,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A font cooking library",
+                "homepage": "https://mobius3.github.io/font-chef",
                 "id": 266662376,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-11-14T14:55:05Z",
+                "open_issues": 2,
                 "owner": "mobius3",
                 "repo": "font-chef",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "font-baking"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1471,12 +2570,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HashLibPlus is a recommended C++11 hashing library that provides a fluent interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few.",
+                "homepage": null,
                 "id": 389600183,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-28T21:27:54Z",
+                "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "HashLibPlus",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "argon2",
+                  "blake-algorithms",
+                  "cpp",
+                  "crc-algorithms",
+                  "crypto",
+                  "cryptography",
+                  "gost",
+                  "hash",
+                  "hmac",
+                  "keccak",
+                  "md5",
+                  "murmurhash",
+                  "pbkdf2",
+                  "scrypt",
+                  "sha-hashes",
+                  "siphash",
+                  "snefru",
+                  "tiger",
+                  "whirlpool",
+                  "xof"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1487,12 +2612,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.",
+                "homepage": null,
                 "id": 131059200,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-06-04T05:35:24Z",
+                "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "BigIntegerCPP",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "absolute-value",
+                  "biginteger",
+                  "clear-bit",
+                  "cplusplus",
+                  "cpp",
+                  "flip-bit",
+                  "gcd",
+                  "math",
+                  "modular-exponentiation",
+                  "modular-inverse",
+                  "negate",
+                  "pcg-random",
+                  "prime-numbers",
+                  "rabin-miller",
+                  "set-bit",
+                  "square",
+                  "test-bit"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1503,12 +2651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AssociatedEnum: header-only library for C++ for enumerations with associated values",
+                "homepage": null,
                 "id": 198248696,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-10-02T12:00:02Z",
+                "open_issues": 0,
                 "owner": "Alkenso",
                 "repo": "asenum",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1519,12 +2672,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IntX is a C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.",
+                "homepage": null,
                 "id": 102853793,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-09-13T21:35:08Z",
+                "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "IntXLib4CPP",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "absolute-v",
+                  "bezout-algorithm",
+                  "biginteger",
+                  "cplusplus",
+                  "cpp",
+                  "factorial",
+                  "gcd",
+                  "intx",
+                  "lcm",
+                  "ln",
+                  "log10",
+                  "logn",
+                  "math",
+                  "miller-rabin",
+                  "modpower",
+                  "modular-exponentiation",
+                  "modular-inverse",
+                  "pcg",
+                  "prime-numbers"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1535,12 +2713,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SimpleBaseLib4CPP is a simple C++11 Base Encoding library that provides at the moment support for encoding and decoding various bases such as Base16, Base32 (various variants), Base58 (various variants), Base64 (various variants).",
+                "homepage": null,
                 "id": 138125064,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-10-15T19:34:11Z",
+                "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "SimpleBaseLib4CPP",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "base16",
+                  "base32",
+                  "base58",
+                  "base64",
+                  "cplusplus",
+                  "cpp",
+                  "encoding"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1551,12 +2742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SRL-CPP is a Simple Regex Language builder library written in C++11 that provides an easy to use interface for constructing both simple and complex regex expressions.",
+                "homepage": null,
                 "id": 203958579,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-10-18T19:08:13Z",
+                "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "SRL-CPP",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1580,12 +2776,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",
+                "homepage": null,
                 "id": 127506824,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T07:04:21Z",
+                "open_issues": 193,
                 "owner": "MaskRay",
                 "repo": "ccls",
-                "stars": 4085
+                "stars": 4085,
+                "topics": [
+                  "cpp",
+                  "ide",
+                  "language-server-protocol",
+                  "lsp-server"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1596,12 +2802,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more",
+                "homepage": null,
                 "id": 88580766,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-07-29T17:15:12Z",
+                "open_issues": 156,
                 "owner": "jacobdufault",
                 "repo": "cquery",
-                "stars": 2361
+                "stars": 2361,
+                "topics": [
+                  "cpp",
+                  "language-server-protocol",
+                  "lsp"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1612,12 +2827,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C/C++ minor mode for Emacs powered by libclang",
+                "homepage": null,
                 "id": 2564641,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-18T19:21:46Z",
+                "open_issues": 169,
                 "owner": "Sarcasm",
                 "repo": "irony-mode",
-                "stars": 911
+                "stars": 911,
+                "topics": [
+                  "clang",
+                  "compilation-database",
+                  "emacs",
+                  "irony-mode",
+                  "libclang"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1628,12 +2854,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ font-lock for Emacs",
+                "homepage": "https://melpa.org/#/modern-cpp-font-lock",
                 "id": 58670459,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-05T21:47:10Z",
+                "open_issues": 5,
                 "owner": "ludwigpacifici",
                 "repo": "modern-cpp-font-lock",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "elisp",
+                  "emacs",
+                  "melpa",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1651,12 +2887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
+                "homepage": null,
                 "id": 23641816,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T16:35:54Z",
+                "open_issues": 549,
                 "owner": "google",
                 "repo": "sanitizers",
-                "stars": 12454
+                "stars": 12454,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1674,12 +2915,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Library Manager for Windows, Linux, and MacOS",
+                "homepage": null,
                 "id": 68312233,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:19:13Z",
+                "open_issues": 1216,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27404
+                "stars": 27404,
+                "topics": [
+                  "c",
+                  "cmake",
+                  "cplusplus",
+                  "cpp",
+                  "libraries",
+                  "package-manager",
+                  "packages",
+                  "vcpkg",
+                  "visual-studio",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1690,12 +2947,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.",
+                "homepage": null,
                 "id": 180373079,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2026-07-06T12:22:10Z",
+                "open_issues": 167,
                 "owner": "cpm-cmake",
                 "repo": "CPM.cmake",
-                "stars": 4106
+                "stars": 4107,
+                "topics": [
+                  "builds",
+                  "c",
+                  "c-plus-plus",
+                  "cmake",
+                  "cpp",
+                  "cross-platform",
+                  "dependencies",
+                  "dependency",
+                  "dependency-manager",
+                  "git",
+                  "package-manager",
+                  "reproducible",
+                  "reproducible-builds",
+                  "svn",
+                  "update",
+                  "version-manager",
+                  "versions"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1706,12 +2986,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The decentralized package manager for C++ and friends 🏝️",
+                "homepage": "https://buckaroo.pm",
                 "id": 81102261,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T02:05:03Z",
+                "open_issues": 61,
                 "owner": "LoopPerfect",
                 "repo": "buckaroo",
-                "stars": 946
+                "stars": 946,
+                "topics": [
+                  "buck",
+                  "buckaroo",
+                  "c-plus-plus",
+                  "cpp",
+                  "package-manager",
+                  "reproducible-builds"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1722,12 +3014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMake driven cross-platform package manager for C/C++.",
+                "homepage": null,
                 "id": 204031579,
                 "language": "CMake",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T12:15:21Z",
+                "open_issues": 35,
                 "owner": "cpp-pm",
                 "repo": "hunter",
-                "stars": 674
+                "stars": 674,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             },
@@ -1738,12 +3035,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ package retrieval",
+                "homepage": "http://cget.readthedocs.io",
                 "id": 52641298,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-14T22:59:42Z",
+                "open_issues": 51,
                 "owner": "pfultz2",
                 "repo": "cget",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "c",
+                  "cget",
+                  "cmake",
+                  "cmake-packages",
+                  "cplusplus",
+                  "cpp",
+                  "crossplatform",
+                  "dependency-manager",
+                  "linux",
+                  "osx",
+                  "package-manager",
+                  "pkgconfig",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
             }
@@ -1757,15 +3073,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:02.042Z",
+    "last_updated": "2026-08-29T04:11:41.719Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of resources on modern C++",
+      "homepage": "http://awesomecpp.com",
       "id": 55082941,
       "language": "HTML",
+      "license": null,
       "last_commit": "2024-08-20T19:26:37Z",
+      "open_issues": 20,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13137
+      "stars": 13137,
+      "topics": [
+        "cpp",
+        "cpp11",
+        "cpp14",
+        "cpp17",
+        "cpp1z",
+        "cpp20"
+      ]
     },
     "original_repository_sha": "430f8e9af9745e9789003c4be5e0a8a6afaa75da",
     "enhanced_repository": "enhansome/enhansome-modern-cpp",
