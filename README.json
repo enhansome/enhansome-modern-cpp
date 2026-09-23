@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5409,
+            "stars": 5407,
             "topics": [
               "bootstrap",
               "c",
@@ -103,7 +103,7 @@
             "open_issues": 46,
             "owner": "cpp-best-practices",
             "repo": "cmake_template",
-            "stars": 1806,
+            "stars": 1808,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:02.042Z"
@@ -149,11 +149,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T17:42:57Z",
+                "last_commit": "2026-09-23T19:56:07Z",
                 "open_issues": 479,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30544,
+                "stars": 30543,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -170,7 +170,7 @@
                 "id": 170525609,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:16:47Z",
+                "last_commit": "2026-09-22T21:40:27Z",
                 "open_issues": 98,
                 "owner": "gammasoft71",
                 "repo": "xtd",
@@ -250,10 +250,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-17T17:24:09Z",
-                "open_issues": 509,
+                "open_issues": 511,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39573,
+                "stars": 39572,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -271,10 +271,10 @@
                 "language": "C++",
                 "license": "BSL-1.0",
                 "last_commit": "2026-09-14T12:08:29Z",
-                "open_issues": 441,
+                "open_issues": 443,
                 "owner": "catchorg",
                 "repo": "Catch2",
-                "stars": 21489,
+                "stars": 21490,
                 "topics": [
                   "bdd",
                   "cpp",
@@ -304,7 +304,7 @@
                 "open_issues": 142,
                 "owner": "doctest",
                 "repo": "doctest",
-                "stars": 6868,
+                "stars": 6869,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -524,10 +524,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T10:25:00Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10420,
+                "stars": 10422,
                 "topics": [
                   "benchmark"
                 ]
@@ -550,7 +550,7 @@
                 "open_issues": 0,
                 "owner": "martinus",
                 "repo": "nanobench",
-                "stars": 1738,
+                "stars": 1739,
                 "topics": [
                   "benchmark",
                   "cpp",
@@ -580,7 +580,7 @@
                 "open_issues": 4,
                 "owner": "DigitalInBlue",
                 "repo": "Celero",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "benchmark",
                   "benchmark-tests",
@@ -656,11 +656,11 @@
                 "id": 26038648,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T06:44:37Z",
-                "open_issues": 57,
+                "last_commit": "2026-09-22T22:25:28Z",
+                "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29620,
+                "stars": 29621,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -687,7 +687,7 @@
                 "open_issues": 71,
                 "owner": "emilk",
                 "repo": "loguru",
-                "stars": 1912,
+                "stars": 1913,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -742,7 +742,7 @@
                 "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12492,
+                "stars": 12493,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -763,7 +763,7 @@
                 "open_issues": 36,
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12179,
+                "stars": 12183,
                 "topics": [
                   "concurrent-programming",
                   "cuda-programming",
@@ -889,7 +889,7 @@
                 "open_issues": 12,
                 "owner": "rigtorp",
                 "repo": "SPSCQueue",
-                "stars": 1293,
+                "stars": 1294,
                 "topics": [
                   "concurrency",
                   "concurrent-data-structure",
@@ -943,11 +943,11 @@
                 "id": 11171548,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T19:55:16Z",
-                "open_issues": 104,
+                "last_commit": "2026-09-23T20:35:52Z",
+                "open_issues": 107,
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50654,
+                "stars": 50664,
                 "topics": [
                   "bson",
                   "cbor",
@@ -984,11 +984,11 @@
                 "id": 126412363,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T19:03:14Z",
-                "open_issues": 77,
+                "last_commit": "2026-09-23T13:50:25Z",
+                "open_issues": 79,
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24270,
+                "stars": 24271,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -1030,7 +1030,7 @@
                 "open_issues": 116,
                 "owner": "open-source-parsers",
                 "repo": "jsoncpp",
-                "stars": 8894,
+                "stars": 8893,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 186,
                 "owner": "jbeder",
                 "repo": "yaml-cpp",
-                "stars": 6138,
+                "stars": 6139,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -1338,7 +1338,7 @@
                 "open_issues": 58,
                 "owner": "pantor",
                 "repo": "inja",
-                "stars": 1989,
+                "stars": 1990,
                 "topics": [
                   "header-only",
                   "inja",
@@ -1445,11 +1445,11 @@
                 "id": 38581626,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T01:30:51Z",
+                "last_commit": "2026-09-23T18:20:31Z",
                 "open_issues": 727,
                 "owner": "pybind",
                 "repo": "pybind11",
-                "stars": 18013,
+                "stars": 18014,
                 "topics": [
                   "bindings",
                   "python"
@@ -1473,7 +1473,7 @@
                 "open_issues": 309,
                 "owner": "ThePhD",
                 "repo": "sol2",
-                "stars": 5144,
+                "stars": 5143,
                 "topics": [
                   "android",
                   "clang",
@@ -1518,7 +1518,7 @@
                 "open_issues": 437,
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14295,
+                "stars": 14297,
                 "topics": [
                   "asynchronous-programming",
                   "drogon",
@@ -1612,7 +1612,7 @@
                 "open_issues": 87,
                 "owner": "libcpr",
                 "repo": "cpr",
-                "stars": 7443,
+                "stars": 7444,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1641,7 +1641,7 @@
                 "open_issues": 104,
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4824,
+                "stars": 4825,
                 "topics": [
                   "asio",
                   "async-programming",
@@ -1729,7 +1729,7 @@
                 "open_issues": 18,
                 "owner": "fnc12",
                 "repo": "sqlite_orm",
-                "stars": 2694,
+                "stars": 2693,
                 "topics": [
                   "cplusplus",
                   "cplusplus-14",
@@ -1969,11 +1969,11 @@
                 "id": 86337343,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-21T15:01:50Z",
+                "last_commit": "2026-09-23T17:24:32Z",
                 "open_issues": 12,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13132,
+                "stars": 13131,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -2011,7 +2011,7 @@
                 "id": 178613040,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:06:49Z",
+                "last_commit": "2026-09-23T15:22:24Z",
                 "open_issues": 16,
                 "owner": "Neargye",
                 "repo": "magic_enum",
@@ -2052,7 +2052,7 @@
                 "open_issues": 71,
                 "owner": "jarro2783",
                 "repo": "cxxopts",
-                "stars": 4811,
+                "stars": 4812,
                 "topics": [
                   "c-plus-plus",
                   "option-parser",
@@ -2104,7 +2104,7 @@
                 "open_issues": 177,
                 "owner": "HowardHinnant",
                 "repo": "date",
-                "stars": 3434,
+                "stars": 3435,
                 "topics": [
                   "calendar",
                   "date",
@@ -2542,31 +2542,6 @@
             },
             {
               "node_type": "item",
-              "title": "Font Chef",
-              "description": "A C99 and C++14 library to cook fonts and render text",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A font cooking library",
-                "homepage": "https://mobius3.github.io/font-chef",
-                "id": 266662376,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2021-11-14T14:55:05Z",
-                "open_issues": 2,
-                "owner": "mobius3",
-                "repo": "font-chef",
-                "stars": 57,
-                "topics": [
-                  "c",
-                  "cpp",
-                  "font-baking"
-                ]
-              },
-              "first_seen": "2026-08-29T01:11:02.042Z"
-            },
-            {
-              "node_type": "item",
               "title": "HashLibPlus",
               "description": "A C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.",
               "children": [],
@@ -2581,7 +2556,7 @@
                 "open_issues": 0,
                 "owner": "ron4fun",
                 "repo": "HashLibPlus",
-                "stars": 57,
+                "stars": 59,
                 "topics": [
                   "argon2",
                   "blake-algorithms",
@@ -2603,6 +2578,31 @@
                   "tiger",
                   "whirlpool",
                   "xof"
+                ]
+              },
+              "first_seen": "2026-08-29T01:11:02.042Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Font Chef",
+              "description": "A C99 and C++14 library to cook fonts and render text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A font cooking library",
+                "homepage": "https://mobius3.github.io/font-chef",
+                "id": 266662376,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2021-11-14T14:55:05Z",
+                "open_issues": 2,
+                "owner": "mobius3",
+                "repo": "font-chef",
+                "stars": 57,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "font-baking"
                 ]
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -2898,7 +2898,7 @@
                 "open_issues": 549,
                 "owner": "google",
                 "repo": "sanitizers",
-                "stars": 12481,
+                "stars": 12483,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -2922,8 +2922,8 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:45:38Z",
-                "open_issues": 1118,
+                "last_commit": "2026-09-23T18:09:19Z",
+                "open_issues": 1102,
                 "owner": "microsoft",
                 "repo": "vcpkg",
                 "stars": 27480,
@@ -3025,7 +3025,7 @@
                 "open_issues": 34,
                 "owner": "cpp-pm",
                 "repo": "hunter",
-                "stars": 675,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -3075,7 +3075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:29:14.293Z",
+    "last_updated": "2026-09-23T20:41:38.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
@@ -3087,7 +3087,7 @@
       "open_issues": 21,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13162,
+      "stars": 13163,
       "topics": [
         "cpp",
         "cpp11",
