@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5410,
+            "stars": 5409,
             "topics": [
               "bootstrap",
               "c",
@@ -149,7 +149,7 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:29:21Z",
+                "last_commit": "2026-10-03T04:32:05Z",
                 "open_issues": 480,
                 "owner": "facebook",
                 "repo": "folly",
@@ -170,7 +170,7 @@
                 "id": 170525609,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:48:38Z",
+                "last_commit": "2026-10-03T01:53:12Z",
                 "open_issues": 98,
                 "owner": "gammasoft71",
                 "repo": "xtd",
@@ -527,7 +527,7 @@
                 "open_issues": 174,
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10446,
+                "stars": 10448,
                 "topics": [
                   "benchmark"
                 ]
@@ -687,7 +687,7 @@
                 "open_issues": 71,
                 "owner": "emilk",
                 "repo": "loguru",
-                "stars": 1915,
+                "stars": 1914,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:02.042Z"
@@ -947,7 +947,7 @@
                 "open_issues": 115,
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50715,
+                "stars": 50714,
                 "topics": [
                   "bson",
                   "cbor",
@@ -984,11 +984,11 @@
                 "id": 126412363,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T04:22:01Z",
+                "last_commit": "2026-10-03T03:49:57Z",
                 "open_issues": 74,
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24339,
+                "stars": 24342,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -1473,7 +1473,7 @@
                 "open_issues": 309,
                 "owner": "ThePhD",
                 "repo": "sol2",
-                "stars": 5150,
+                "stars": 5151,
                 "topics": [
                   "android",
                   "clang",
@@ -1514,7 +1514,7 @@
                 "id": 131236938,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:04:56Z",
+                "last_commit": "2026-10-03T02:10:54Z",
                 "open_issues": 430,
                 "owner": "drogonframework",
                 "repo": "drogon",
@@ -1609,7 +1609,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T18:31:34Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "libcpr",
                 "repo": "cpr",
                 "stars": 7448,
@@ -2048,7 +2048,7 @@
                 "id": 24747723,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:44:23Z",
+                "last_commit": "2026-10-03T02:03:44Z",
                 "open_issues": 72,
                 "owner": "jarro2783",
                 "repo": "cxxopts",
@@ -2074,7 +2074,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T18:37:52Z",
-                "open_issues": 290,
+                "open_issues": 291,
                 "owner": "ericniebler",
                 "repo": "range-v3",
                 "stars": 4377,
@@ -2922,11 +2922,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:10:54Z",
-                "open_issues": 1090,
+                "last_commit": "2026-10-03T01:56:12Z",
+                "open_issues": 1092,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27512,
+                "stars": 27513,
                 "topics": [
                   "c",
                   "cmake",
@@ -3075,7 +3075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:41.714Z",
+    "last_updated": "2026-10-03T04:57:23.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
