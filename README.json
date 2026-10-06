@@ -1,7 +1,72 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "For a comprehensive guide to C++ books see the Stackoverflow Definitive C++ Book Guide and List.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C++ Core Guidelines",
+          "description": "(Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+            "homepage": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+            "id": 41058054,
+            "language": "CSS",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-01T20:15:57Z",
+            "open_issues": 246,
+            "owner": "isocpp",
+            "repo": "CppCoreGuidelines",
+            "stars": 45355,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T14:40:59.376Z"
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "Find the latest C++ news and updates:\nListen to the latest C++ podcasts:\nRead the latest C++ standard proposals:\nDiscuss everything related to C++:\nAsk your C++ questions:\nMaybe your question was already answered in a FAQ?:\nGo to one of the many C++ conferences:\nFind C++ user groups:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++ Best Practices",
+              "description": "Collaborative Collection of C++ Best Practices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.",
+                "homepage": null,
+                "id": 19280767,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2024-08-06T07:33:26Z",
+                "open_issues": 39,
+                "owner": "cpp-best-practices",
+                "repo": "cppbestpractices",
+                "stars": 8838,
+                "topics": [
+                  "best-practices",
+                  "cpp"
+                ]
+              },
+              "first_seen": "2026-10-06T14:40:59.376Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites"
+        }
+      ],
+      "title": "Community"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-10-04T20:28:32.074Z",
+    "last_updated": "2026-10-06T14:40:59.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
@@ -9,11 +74,11 @@
       "id": 55082941,
       "language": "HTML",
       "license": null,
-      "last_commit": "2024-08-20T19:26:37Z",
-      "open_issues": 21,
+      "last_commit": "2026-10-05T02:56:40Z",
+      "open_issues": 0,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13171,
+      "stars": 13168,
       "topics": [
         "cpp",
         "cpp11",
@@ -23,7 +88,7 @@
         "cpp20"
       ]
     },
-    "original_repository_sha": "430f8e9af9745e9789003c4be5e0a8a6afaa75da",
+    "original_repository_sha": "d51df033764f70f6ce0579b3f0d1df20c64905d3",
     "enhanced_repository": "enhansome/enhansome-modern-cpp",
     "enhanced_repository_description": null,
     "title": "Awesome Modern C++ with stars"
