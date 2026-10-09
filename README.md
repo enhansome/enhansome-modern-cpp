@@ -18,7 +18,7 @@ To add, remove or change things on the list:
 
 ## Books
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,365 | 🐛 246 | 🌐 CSS | 📅 2026-10-01 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,368 | 🐛 246 | 🌐 CSS | 📅 2026-10-01 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
 * [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) \[C++11/17/20]
 * [The C++ Programming Language](https://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) \[C++11]
 * [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) \[C++11/14]
@@ -118,7 +118,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog
 
 ### Websites
 
-* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,841 | 🐛 40 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,842 | 🐛 40 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
 * [C++ By Example](http://cbyexample.com) - Learn C++ by Example!
@@ -136,4 +136,4 @@ community:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

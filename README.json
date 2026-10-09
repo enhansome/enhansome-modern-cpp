@@ -19,7 +19,7 @@
             "open_issues": 246,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45365,
+            "stars": 45368,
             "topics": []
           },
           "first_seen": "2026-10-06T14:40:59.376Z"
@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "cpp-best-practices",
                 "repo": "cppbestpractices",
-                "stars": 8841,
+                "stars": 8842,
                 "topics": [
                   "best-practices",
                   "cpp"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:29:50.883Z",
+    "last_updated": "2026-10-09T21:52:58.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
