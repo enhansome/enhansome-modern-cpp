@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T20:15:57Z",
-            "open_issues": 246,
+            "open_issues": 247,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45369,
+            "stars": 45375,
             "topics": []
           },
           "first_seen": "2026-10-06T14:40:59.376Z"
@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "cpp-best-practices",
                 "repo": "cppbestpractices",
-                "stars": 8844,
+                "stars": 8845,
                 "topics": [
                   "best-practices",
                   "cpp"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:04:27.332Z",
+    "last_updated": "2026-10-12T23:46:38.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
