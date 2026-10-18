@@ -118,7 +118,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog
 
 ### Websites
 
-* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,845 | 🐛 40 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,846 | 🐛 41 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
 * [C++ By Example](http://cbyexample.com) - Learn C++ by Example!
@@ -136,4 +136,4 @@ community:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
