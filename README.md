@@ -18,7 +18,7 @@ To add, remove or change things on the list:
 
 ## Books
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,382 | 🐛 248 | 🌐 CSS | 📅 2026-10-01 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,384 | 🐛 249 | 🌐 CSS | 📅 2026-10-01 (Bjarne Stroustrup, Herb Sutter) \[C++11/14/17] - Guidelines for using modern C++.
 * [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) \[C++11/17/20]
 * [The C++ Programming Language](https://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) \[C++11]
 * [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) \[C++11/14]
@@ -136,4 +136,4 @@ community:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T20:15:57Z",
-            "open_issues": 248,
+            "open_issues": 249,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45382,
+            "stars": 45384,
             "topics": []
           },
           "first_seen": "2026-10-06T14:40:59.376Z"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:50:13.512Z",
+    "last_updated": "2026-10-23T20:39:42.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
@@ -78,7 +78,7 @@
       "open_issues": 0,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13181,
+      "stars": 13182,
       "topics": [
         "cpp",
         "cpp11",
