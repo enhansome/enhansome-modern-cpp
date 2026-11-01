@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45397,
+            "stars": 45416,
             "topics": []
           },
           "first_seen": "2026-10-06T14:40:59.376Z"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:41:27.969Z",
+    "last_updated": "2026-11-01T21:22:43.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
