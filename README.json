@@ -48,7 +48,7 @@
                 "open_issues": 41,
                 "owner": "cpp-best-practices",
                 "repo": "cppbestpractices",
-                "stars": 8851,
+                "stars": 8852,
                 "topics": [
                   "best-practices",
                   "cpp"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:43:15.175Z",
+    "last_updated": "2026-11-12T22:52:17.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
@@ -78,7 +78,7 @@
       "open_issues": 0,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13190,
+      "stars": 13192,
       "topics": [
         "cpp",
         "cpp11",
