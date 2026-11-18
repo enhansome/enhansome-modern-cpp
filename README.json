@@ -19,7 +19,7 @@
             "open_issues": 250,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45479,
+            "stars": 45481,
             "topics": []
           },
           "first_seen": "2026-10-06T14:40:59.376Z"
@@ -66,7 +66,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:58:42.872Z",
+    "last_updated": "2026-11-18T23:36:18.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on modern C++",
@@ -78,7 +78,7 @@
       "open_issues": 0,
       "owner": "rigtorp",
       "repo": "awesome-modern-cpp",
-      "stars": 13194,
+      "stars": 13195,
       "topics": [
         "cpp",
         "cpp11",
